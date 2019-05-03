@@ -2,7 +2,7 @@ def new_hash
 {}
 end
 
-def actor
+def actor{"person" => "Mike"}
 
 end
 
